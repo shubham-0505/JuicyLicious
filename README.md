@@ -1,1 +1,1 @@
-A Restaurant Website using HTML, CSS, JavaScript and PHP.
+A Restaurant Website using HTML, CSS, JavaScript and PHP
